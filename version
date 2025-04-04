@@ -1,7 +1,7 @@
 {
   "ios_version": "1.0.1",
   "android_version": "1.0.0",
-  "ios_inspection": true,
+  "ios_inspection": false,
   "android_inspection": false,
   "ios_inspection_reason": null,
   "android_inspection_reason": null,
